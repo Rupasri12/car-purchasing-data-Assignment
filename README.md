@@ -1,4 +1,4 @@
-# THE-ASSIGNMENT-OF-MACHINE-LEARNING
+# Car purchasing data project
 * Here we are doing a Assignment on car_purchasing data
 * the first step is to import all Libraries :-
 > import numpy as np
